@@ -1,4 +1,3 @@
-# ALSD-2-Mini-Project
 📝 Description
 A basic word puzzle game prototype where players form valid words from given letters to progress through levels.
 
